@@ -1,1 +1,4 @@
 __pycache__
+Pip&Virtual_env/.*
+Pip&Virtual_env/learn.txt
+*/__pycache__
